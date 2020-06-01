@@ -1,4 +1,4 @@
-package com.raju.springboot.demo.rest;
+package com.raju.springboot.demo.mycoolapp.rest;
 
 
 import java.util.Date;
