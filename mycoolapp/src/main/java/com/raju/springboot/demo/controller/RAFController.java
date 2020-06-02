@@ -8,6 +8,6 @@ public class RAFController {
 
 	@GetMapping("/raf")
 	public String hello() {
-		return "Hello raf";
+		return "Hello raf man";
 	}
 }
